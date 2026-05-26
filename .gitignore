@@ -1,16 +1,16 @@
 # Python
-backend/venv/
-backend/__pycache__/
-backend/*.pyc
-backend/.env
-backend/app.db
-backend/app/__pycache__/
+golden_response/sync/backend/venv/
+golden_response/sync/backend/__pycache__/
+golden_response/sync/backend/*.pyc
+golden_response/sync/backend/.env
+golden_response/sync/backend/app.db
+golden_response/sync/backend/app/__pycache__/
 
 # Node / React
-frontend/node_modules/
-frontend/dist/
-frontend/.env
-frontend/.env.local
+golden_response/sync/frontend/node_modules/
+golden_response/sync/frontend/dist/
+golden_response/sync/frontend/.env
+golden_response/sync/frontend/.env.local
 
 # IDE / OS
 .vscode/
