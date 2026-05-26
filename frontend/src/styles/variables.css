@@ -1,0 +1,43 @@
+:root {
+  /* Color Palette - Premium Cosmic Indigo Theme */
+  --bg-primary: #07080e;
+  --bg-secondary: #0f111a;
+  --bg-tertiary: rgba(22, 25, 41, 0.7);
+  
+  --accent-purple: #7c4dff;
+  --accent-purple-glow: rgba(124, 77, 255, 0.4);
+  --accent-pink: #ff4081;
+  --accent-pink-glow: rgba(255, 64, 129, 0.4);
+  --accent-cyan: #00e5ff;
+  --accent-cyan-glow: rgba(0, 229, 255, 0.4);
+  --accent-green: #00e676;
+  
+  /* Glassmorphism Tokens */
+  --glass-bg: rgba(15, 17, 28, 0.75);
+  --glass-border: rgba(255, 255, 255, 0.06);
+  --glass-border-focus: rgba(124, 77, 255, 0.3);
+  --glass-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.45);
+  
+  /* Text Colors */
+  --text-primary: #f5f6fa;
+  --text-secondary: #8b90a6;
+  --text-muted: #53586d;
+  
+  /* Priority Badges */
+  --low-bg: rgba(0, 229, 255, 0.15);
+  --low-color: #00e5ff;
+  --medium-bg: rgba(255, 64, 129, 0.15);
+  --medium-color: #ff4081;
+  --high-bg: rgba(124, 77, 255, 0.15);
+  --high-color: #9d7cff;
+  
+  /* Fonts & Radius */
+  --font-sans: 'Outfit', 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --radius-lg: 16px;
+  --radius-md: 10px;
+  --radius-sm: 6px;
+  
+  /* Animation Timing */
+  --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-fast: all 0.15s ease-out;
+}
