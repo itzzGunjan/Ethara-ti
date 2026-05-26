@@ -1,5 +1,7 @@
 • PROMPT 
+
 • CONTEXT AND ROLE 
+
 With your proficiency as a Frontend Developer, your objective is to design and implement a high-performing personal portfolio website. It should have immersive animations for creating scroll-based storytelling on the website while keeping responsiveness, accessibility, and production quality intact. You are supposed to showcase projects, skills, and your experience in an animated narrative style that ensures a smooth visual experience for visitors. Besides, your application is required to have a fully-functional and secure mechanism for contacting users to capture their information and notify the owner via an email.
 
 • OBJECTIVE
@@ -98,7 +100,9 @@ Handle frontend form errors gracefully.
 Handle backend validation errors.
 Provide structured error responses.
 Log backend failures appropriately.
+
 • Document:
+
 Folder structure
 Setup instructions
 Environment variable configuration
@@ -110,14 +114,17 @@ Ensure animations do not degrade performance.
 Support high traffic without API bottlenecks.
 Use proper debouncing for user interactions.
 Ensure accessibility and SEO optimization.
-Technology Stack
+
+• Technology Stack
 Use the following:
 
-Frontend:
+• Frontend:
+
 React (or Next.js)
 Framer Motion
 Tailwind CSS (or equivalent styling solution)
-Backend:
+
+• Backend:
 Node.js + Express (or Next.js API routes)
 Nodemailer (or equivalent email service)
 dotenv for environment configuration
